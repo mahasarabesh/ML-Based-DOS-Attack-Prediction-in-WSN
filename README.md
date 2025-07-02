@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A Machine Learning-based project for predicting Denial-of-Service (DoS) attacks in Wireless Sensor Networks (WSN) using multiple classifiers and advanced feature selection techniques. This project leverages Object-Oriented Programming (OOP) principles to preprocess data, train models, visualize results, and predict attack types on new datasets.
+A Machine Learning-based project for predicting Denial-of-Service (DoS) attacks in Wireless Sensor Networks (WSN) using multiple classifiers and advanced feature selection techniques. This project leverages various techniques to preprocess data, train models, visualize results, and predict attack types on new datasets.
 
 ---
 
